@@ -1,0 +1,40 @@
+void
+road
+sidewalk
+building
+wall
+fence
+pole
+traffic light
+traffic sign
+vegetation
+terrain
+sky
+person
+rider
+car
+truck
+bus
+train
+motorcycle
+bicycle
+wall
+floor
+cabinet
+bed
+chair
+sofa
+table
+door
+window
+bookshelf
+picture
+counter
+desk
+curtain
+refridgerator
+shower curtain
+toilet
+sink
+bathtub
+otherfurniture
